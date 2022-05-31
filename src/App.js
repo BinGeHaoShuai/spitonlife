@@ -2,7 +2,7 @@ import './scss/app.scss';
 function App() {
   return (
     <div className="App">
-     react
+     this is test
     </div>
   );
 }
